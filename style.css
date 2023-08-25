@@ -1,0 +1,38 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 750px;
+    height: 750px;
+    border: solid 1px black;
+    
+}
+
+.price {
+    position: relative;
+    bottom: 50px;
+    left: 110px;
+    
+}
+
+#title {
+    position: relative;
+    right: 110px;
+}
+
+#occupation {
+    position: relative;
+    bottom: 65px;
+}
+
+#start {
+    position: relative;
+    bottom: 133;
+    left: 150px;
+}
+
+ul {
+    font-size: 24px;
+}
